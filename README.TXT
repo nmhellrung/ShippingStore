@@ -1,6 +1,6 @@
-PROJECT TITLE:  Assignment5_nmh46
-PURPOSE OF PROJECT:  Learn GUI and Logging basics
+PROJECT TITLE:  ShippingStore
+PURPOSE OF PROJECT:  Implement object-oriented programming with logging and a GUI.
 VERSION or DATE:  Started Nov. 15, 2017
-HOW TO START THIS PROJECT:  Using provided solution for Assignment2
+HOW TO START THIS PROJECT:  Using provided solution
 AUTHORS: Nathan Hellrung
-USER INSTRUCTIONS: Stay classy
+USER INSTRUCTIONS:
